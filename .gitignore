@@ -1,5 +1,6 @@
 #Jupyter Notebook
 Scripts/
+*.csv
 
 
 # Byte-compiled / optimized / DLL files
